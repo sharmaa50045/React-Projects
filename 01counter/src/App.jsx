@@ -15,8 +15,6 @@ function App() {
     setCounter(counter - 1)
   }
 
-
-
   return (
     <>
       <h1 className='font-bold text-2xl'>React with Counter</h1>
